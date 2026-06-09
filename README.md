@@ -6,7 +6,7 @@ shared lending pool, earn yield on idle capital, and can borrow up to **2× thei
 in the same pool — all enforced by smart contracts, with every deposit, loan and repayment
 publicly auditable on the Stellar ledger.
 
-> Built for the **Stellar GIVE Impact Bootcamp 2026** 
+> Built for the **Stellar GIVE Impact Bootcamp 2026** by **TechGenz**.
 
 ## Why
 
@@ -122,7 +122,8 @@ See [CONTRACT_ADDRESSES.md](CONTRACT_ADDRESSES.md).
 https://www.youtube.com/watch?v=vUKgVG8aXwQ
 
 ## Team
- Stellar GIVE Impact Bootcamp 2026.
+
+**TechGenz** — Stellar GIVE Impact Bootcamp 2026.
 
 - **Nuwahereza Peter** — Team Lead
 - **Armel Munyaneza**
