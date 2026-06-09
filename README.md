@@ -119,7 +119,7 @@ in the hosting provider's dashboard.
 See [CONTRACT_ADDRESSES.md](CONTRACT_ADDRESSES.md).
 
 ## DEMO video
-
+https://www.youtube.com/watch?v=vUKgVG8aXwQ
 
 ## Team
 
