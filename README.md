@@ -118,9 +118,8 @@ in the hosting provider's dashboard.
 
 See [CONTRACT_ADDRESSES.md](CONTRACT_ADDRESSES.md).
 
-## 2‑minute pitch script
-
-See [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md).
+## DEMO video
+https://www.youtube.com/watch?v=vUKgVG8aXwQ
 
 ## Team
 
