@@ -6,7 +6,7 @@ shared lending pool, earn yield on idle capital, and can borrow up to **2× thei
 in the same pool — all enforced by smart contracts, with every deposit, loan and repayment
 publicly auditable on the Stellar ledger.
 
-> Built for the **Stellar GIVE Impact Bootcamp 2026** by GDG UTAMU.
+> Built for the **Stellar GIVE Impact Bootcamp 2026** 
 
 ## Why
 
