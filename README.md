@@ -122,8 +122,7 @@ See [CONTRACT_ADDRESSES.md](CONTRACT_ADDRESSES.md).
 https://www.youtube.com/watch?v=vUKgVG8aXwQ
 
 ## Team
-
-GDG UTAMU — Stellar GIVE Impact Bootcamp 2026.
+ Stellar GIVE Impact Bootcamp 2026.
 
 - **Nuwahereza Peter** — Team Lead
 - **Armel Munyaneza**
