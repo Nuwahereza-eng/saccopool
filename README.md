@@ -125,6 +125,10 @@ https://www.youtube.com/watch?v=vUKgVG8aXwQ
 
 GDG UTAMU — Stellar GIVE Impact Bootcamp 2026.
 
+- **Nuwahereza Peter** — Team Lead
+- **Armel Munyaneza**
+- **Bethwel Kiplagat**
+
 ## License
 
 See [LICENSE](LICENSE).
